@@ -4,9 +4,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-  String mystring = sc.next();       int myint = sc.nextInt();
-        System.out.println("mystringis=" +mystring);
-            System.out.println("myintis=" +myint);
+  String mystring = sc.next();      
+  int myint = sc.nextInt();
+  System.out.println("mystringis=" +mystring);
+  System.out.println("myintis=" +myint);
         
         
     }     
